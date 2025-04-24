@@ -97,7 +97,8 @@ Explore the full project with visuals and insights via the hosted interactive da
 
 [![IBM Certificate Thumbnail](certification/ibm-data-visualization-thumbnail.png)](https://www.coursera.org/account/accomplishments/verify/9DJH9MB4L5XQ)
 
-[Please verify here](https://www.credly.com/earner/earned/badge/350e2c8d-5996-4406-b1a13af5ae0e)
+[Please verify here](https://www.credly.com/badges/350e2c8d-5996-4406-806c-b1a13af5ae0e)
+
 ---
 
 ## 📁 Project Structure
