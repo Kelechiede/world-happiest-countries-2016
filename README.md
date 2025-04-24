@@ -10,8 +10,6 @@ This project is part of the [IBM Data Analyst Professional Certificate](https://
 ### 📊 [World Happiest Countries Report 2016](https://github.com/Kelechiede/world-happiest-countries-2016)
 An interactive data analysis project exploring global happiness scores. Built using Python, Jupyter, and Plotly as part of the IBM Data Analyst Certificate program.  
 🔗 [View Dashboard](https://kelechiede.github.io/world-happiest-countries-2016/dashboard/World_HappiestFolks_Report2016.html)
-[![View Dashboard](https://img.shields.io/badge/View-Dashboard-blue?style=for-the-badge&logo=plotly)](https://kelechiede.github.io/world-happiest-countries-2016/World_HappiestFolks_Report2016.html)
-[`World_HappiestFolks_Report2016.html`](https://kelechiede.github.io/world-happiest-countries-2016/World_HappiestFolks_Report2016.html)
 ---
 
 ## 📌 Project Objectives
