@@ -115,3 +115,12 @@ world-happiness-2016/
 │   └── ibm-data-visualization-thumbnail.png
 ├── visuals/
 └── README.md
+
+
+---
+
+## 🧑‍💼 Author
+
+**Kelechukwu Innocent Ede**  
+IBM Certified Data Analyst | GitHub: [@Kelechiede](https://github.com/Kelechiede)  
+📧 Email: kelechukwuede@gmail.com
