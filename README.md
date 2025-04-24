@@ -4,6 +4,12 @@ This project is part of the **IBM Data Analyst Professional Certificate** progra
 
 This project is part of the [IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst). It involves data preparation, exploration, and visualization based on the World Happiness Report.
 
+---
+## 🌟 Featured Projects
+
+### 📊 [World Happiest Countries Report 2016](https://github.com/Kelechiede/world-happiest-countries-2016)
+An interactive data analysis project exploring global happiness scores. Built using Python, Jupyter, and Plotly as part of the IBM Data Analyst Certificate program.  
+🔗 [View Dashboard](https://kelechiede.github.io/world-happiest-countries-2016/dashboard/World_HappiestFolks_Report2016.html)
 
 ---
 
