@@ -1,4 +1,4 @@
-# 🌍 World Happiness Report 2016 – Data Analysis & Visualization
+# 🌍 World Happiest Countries Report 2016 – Data Analysis & Visualization
 
 This project is part of the **IBM Data Analyst Professional Certificate** program on Coursera. It explores how economic, health, and social factors contribute to national happiness using the **World Happiness Report 2016** dataset.
 
