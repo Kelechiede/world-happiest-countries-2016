@@ -10,7 +10,8 @@ This project is part of the [IBM Data Analyst Professional Certificate](https://
 ### 📊 [World Happiest Countries Report 2016](https://github.com/Kelechiede/world-happiest-countries-2016)
 An interactive data analysis project exploring global happiness scores. Built using Python, Jupyter, and Plotly as part of the IBM Data Analyst Certificate program.  
 🔗 [View Dashboard](https://kelechiede.github.io/world-happiest-countries-2016/dashboard/World_HappiestFolks_Report2016.html)
-
+[![View Dashboard](https://img.shields.io/badge/View-Dashboard-blue?style=for-the-badge&logo=plotly)](https://kelechiede.github.io/world-happiest-countries-2016/World_HappiestFolks_Report2016.html)
+[`World_HappiestFolks_Report2016.html`](https://kelechiede.github.io/world-happiest-countries-2016/World_HappiestFolks_Report2016.html)
 ---
 
 ## 📌 Project Objectives
@@ -71,12 +72,18 @@ The notebook includes:
 
 ## 🖥️ Interactive Dashboard Notebook
 
-All charts, insights, and narrative have been combined into a single notebook.
+Explore the full project with visuals and insights via the hosted interactive dashboard:
 
-- 🔗 [View Dashboard Notebook (HTML)](dashboard/World_HappiestFolks_Report2016.html)
+- 🔗 [![View Dashboard](https://img.shields.io/badge/View-Dashboard-blue?style=for-the-badge&logo=plotly)](https://kelechiede.github.io/world-happiest-countries-2016/World_HappiestFolks_Report2016.html)
 - 📄 [Download as PDF](dashboard/World_HappiestFolks_Report2016.pdf)
 
-> 💡 This notebook includes an **interactive map** powered by Plotly — best viewed in a Jupyter environment.
+> 💡 This notebook includes bar charts, a correlation matrix, pie chart, and an interactive world map — best viewed in a desktop browser.
+
+---
+
+- 📁 Original Jupyter Notebook: `notebooks/World_HappiestFolks_Report2016.ipynb`
+- 📄 Static HTML Version: [`World_HappiestFolks_Report2016.html`](https://kelechiede.github.io/world-happiest-countries-2016/World_HappiestFolks_Report2016.html)
+
 
 ---
 
