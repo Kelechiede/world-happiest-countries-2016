@@ -101,6 +101,15 @@ Explore the full project with visuals and insights via the hosted interactive da
 
 ---
 
+## 🧑‍💼 Author
+
+**Kelechukwu Innocent Ede**  
+IBM Certified Data Analyst | GitHub: [@Kelechiede](https://github.com/Kelechiede) 
+🔗 LinkedIn: [Kelechukwu Innocent Ede](https://www.linkedin.com/in/kelechukwu-innocent-ede-b448aa134/)  
+📧 Email: kelechukwuede@gmail.com
+
+---
+
 ## 📁 Project Structure
 
 ```plaintext
@@ -116,11 +125,3 @@ world-happiness-2016/
 ├── visuals/
 └── README.md
 
-
----
-
-## 🧑‍💼 Author
-
-**Kelechukwu Innocent Ede**  
-IBM Certified Data Analyst | GitHub: [@Kelechiede](https://github.com/Kelechiede)  
-📧 Email: kelechukwuede@gmail.com
